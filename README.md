@@ -17,10 +17,6 @@
 
 ## 📚 深度专栏 (已在 Discussions 沉淀)
 
-- **《我故意用 AI 写作》**：重要的不是文字生产者，而是思考的源头。
-- **《裁掉“传统”产品经理》**：AI 正在抹平价值链，我们需要“野路子”建造者。
-- **《从军营到 AI 荒野》**：意志力与执行力是 AI 时代最硬的隐性知识。
-
 ---
 
 ## 🛠️ 硬核实战记录
@@ -37,7 +33,7 @@
 如果你也认同 **“经历是最好的老师”**，欢迎来我的“根据地”交流：
 
 - **微信公众号**：Alex的荒诞日记
-- **GitHub Discussions**：[参与讨论，留下你的观点](https://github.com/your-username/your-repo/discussions)
+- **GitHub Discussions**：https://github.com/mm1025048717-hash/AI-PM-Survival-Guide/discussions
 
 ---
 
